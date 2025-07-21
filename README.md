@@ -17,6 +17,8 @@ A Hedgehog-Speaker system with a rotating plush hedgehog attached to a motor in 
 | Mutilated Aux Cord | 1 | Personal belongings | N/A |
 ---
 # Images
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9fdad0bbecd62255bddebb113906e60832ed235_img_6865.jpg)
+
 ![IMG_2307](https://github.com/user-attachments/assets/db1c896c-0512-4b40-b063-e99253592b77)
 Iteration 1 of the 3.5mm audio jack connection to the computer
 ![IMG_2310](https://github.com/user-attachments/assets/bda83f0c-9c6e-45c0-be04-aec7031c1fca)
